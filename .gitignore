@@ -64,3 +64,8 @@ crashlytics-build.properties
 
 # Mac
 .DS_Store
+
+# Icon must end with two \r
+Icon
+
+
